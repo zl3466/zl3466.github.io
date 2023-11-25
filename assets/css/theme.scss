@@ -92,6 +92,21 @@ body {
     }
   }
 
+  a.icon_btn {
+    text-decoration: none;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    display: inline-block;
+    font-size: 36px;
+    letter-spacing: 0;
+    margin: 0rem;
+    overflow: visible;
+    padding: 5px 5px 5px 5px;
+    position: relative;
+    margin-top: 2rem;
+    cursor: pointer;
+  }
+
   /** The arrow button to scroll to content */
   #header-arrow {
     font-size: 140px;
@@ -119,7 +134,7 @@ body {
 .fixed-nav {
   background-color: var(--section-light-bg-color);
   border-radius: 0 25px 20px 0;
-  padding: 1em 1.5em;
+  padding: 3em 1.5em;
   display: none;
   flex-direction: column;
   position: fixed;
@@ -127,7 +142,7 @@ body {
   z-index: 99999;
   font-family: "Open Sans Condensed", sans-serif;
   text-transform: uppercase;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   line-height: 130%;
   font-weight: bold;
 }

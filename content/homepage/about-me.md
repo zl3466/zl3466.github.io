@@ -1,15 +1,20 @@
 ---
 title: "About Me"
-weight: 3
+header_menu_title: "About Me"
+weight: 2
 header_menu: true
 ---
 
-![Zhiheng Li](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+![avatar](images/avatar-modified.png)
 
-##### Professional Experience
-
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
 
 ----
+I am currently a senior undergraduate student at NYU Tandon School of Engineering, majoring in Electrical and Computer Engineering and minoring in Computer Science. 
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+At NYU, my research experiences have been predominantly focused on autonomous vehicle algorithms and datasets (AI4CE Lab, Department of Civil and Urban Engineering) and animal behavioral data acquisition and analysis (Wisniewski and Masurkar Labs, NYU Langone Health Department of Neurology). My future research and career aspirations thus lie in the intersection of computer vision, machine learning, and biomedical engineering. 
+
+[//]: # (thus becoming familiar the acquisition and analytics of various data types.)
+
+[//]: # (Inspired by my latest internship at the algorithm department of LinkedCare Shanghai, I feel exited about exploiting the potential of artificial intelligence in assisting )
+
+

@@ -20,7 +20,7 @@
   /* Dark section - text color */
   --section-dark-text-color: var(--section-light-bg-color);
   /* Dark section - background color */
-  --section-dark-bg-color: #b80135;
+  --section-dark-bg-color: #cee9ed;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
@@ -113,6 +113,19 @@ body {
     #site-head a.btn:hover, #site-head.withCenteredImage a.btn:hover {
       color: var(--highlight-inverse-contrast);
       background-color: var(--highlight-inverse); }
+  #site-head a.icon_btn, #site-head.withCenteredImage a.icon_btn {
+    text-decoration: none;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    display: inline-block;
+    font-size: 36px;
+    letter-spacing: 0;
+    margin: 0rem;
+    overflow: visible;
+    padding: 5px 5px 5px 5px;
+    position: relative;
+    margin-top: 2rem;
+    cursor: pointer; }
   #site-head #header-arrow, #site-head.withCenteredImage #header-arrow {
     font-size: 140px;
     margin: -10px auto;
@@ -134,7 +147,7 @@ body {
 .fixed-nav {
   background-color: var(--section-light-bg-color);
   border-radius: 0 25px 20px 0;
-  padding: 1em 1.5em;
+  padding: 3em 1.5em;
   display: none;
   flex-direction: column;
   position: fixed;
@@ -142,7 +155,7 @@ body {
   z-index: 99999;
   font-family: "Open Sans Condensed", sans-serif;
   text-transform: uppercase;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   line-height: 130%;
   font-weight: bold; }
 
