@@ -192,12 +192,18 @@ code, tt {
 }
 
 code {
-    color: var(--section-light-text-color);
+    color: var(--color-text);
     background-color: var(--section-uni-code-bg-color);
     border-radius: 3px;
-    font-family: Inconsolata, monospace, sans-serif;
-    font-size: 0.75em;
+    font-family: "Open Sans Condensed", sans-serif;
+    font-size: 1em;
+    font-weight: bold;
     padding: 3px 5px;
+
+    &:hover,
+    &.active {
+      color: var(--sticky-menu-text-color);
+    }
 }
 
 pre {

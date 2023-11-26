@@ -1,9 +1,15 @@
 baseURL = "https://example.com"
 
-# This is a "one page"-website, so we do not need these kinds of pages...
-disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+## This is a "one page"-website, so we do not need these kinds of pages...
+#disableKinds = ["taxonomy", "term", "RSS", "robotsTXT"]
 
 defaultContentLanguage = "en"
+summaryLength = 30
+paginate = 10
+enableEmoji = true
+enableRobotsTXT = true
+[markup.goldmark.renderer]
+  unsafe = true
 
 ## The name of this wonderful theme ;-).
 #theme = "hugo-scroll"

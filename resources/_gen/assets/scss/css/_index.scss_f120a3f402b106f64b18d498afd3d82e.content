@@ -14,17 +14,17 @@
   --sticky-menu-text-color: #56a5bf;
   /* === Alternating content (post) sections  === */
   /* Light section - text color */
-  --section-light-text-color: #cee9ed;
+  --section-light-text-color: #ebfcff;
   /* Light section - background color */
   --section-light-bg-color: #393f40;
   /* Dark section - text color */
   --section-dark-text-color: var(--section-light-bg-color);
   /* Dark section - background color */
-  --section-dark-bg-color: #cee9ed;
+  --section-dark-bg-color: #f2f9fc;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
-  --section-uni-code-bg-color: #e0ded7;
+  --section-uni-code-bg-color: #d4d4d4;
   /* === Single pages=== */
   --single-page-text-color: var(--section-light-text-color);
   --single-page-bg-color: var(--section-light-bg-color);
@@ -409,12 +409,15 @@ code, tt {
   padding: 3px 5px; }
 
 code {
-  color: var(--section-light-text-color);
+  color: var(--color-text);
   background-color: var(--section-uni-code-bg-color);
   border-radius: 3px;
-  font-family: Inconsolata, monospace, sans-serif;
-  font-size: 0.75em;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 1em;
+  font-weight: bold;
   padding: 3px 5px; }
+  code:hover, code.active {
+    color: var(--sticky-menu-text-color); }
 
 pre {
   background: var(--section-light-text-color);
