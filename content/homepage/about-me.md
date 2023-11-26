@@ -5,7 +5,7 @@ weight: 2
 header_menu: true
 ---
 
-![avatar](images/avatar-modified.png)
+![avatar](/images/avatar-modified.png)
 
 
 ----
