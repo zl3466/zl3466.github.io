@@ -57,7 +57,7 @@ header_menu: true
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/jkUwMtu3Ki1qpK4B6"
   data-title="langone"
-  data-description="8 new items added to shared album"
+  data-description="10 new items added to shared album"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/pw/ADCreHdL5yBCdSFKN6gimeHD-gjYprmYPKUOOr--n3p47l5cD4wSVyqfQCKrWLXdhBX7tfulTzaNU6x0--oyd7WL2_SJfSHHGoXUtz-HzQTZlFU9Mtnz3uSh=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHdQmO-foqkzyGz4y2cCO3IH8QC61NcTcNTH97xKJ0ztb4jE52DNN46UAbKNnKApZZ5IwT--1en2s_dFNbUinWmpmanM32K_EHqPOSrLwm8KnhkoxM2K=w1920-h1080"></object>
@@ -67,7 +67,10 @@ header_menu: true
   <object data="https://lh3.googleusercontent.com/pw/ADCreHfvMpLkbPTgGELpRmmch_XfMaH71niONr_iWFJX6t45fjqpqQdaySiKz9Yy9MgsOgXGHowGm_ra2yyxJWvrryij7ou_mtY_DUpI3pKI29AN7YfmIGQN=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHfvWnSkZDrAaKWzZgTyMVCIZAKmLi5G20wAnlLGU3h0eiAdhKQSgXMJRbsyNm9pXRKDQBNFX5E2fcCpHhEolxVSOLDKST6yudd6yN1WCuVU9a84UsFQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHcw636LQHQvqu4rMjBjXx2fPYwGXKEmjGoqIKGX9hivrgKIUETfWQFAOuxqdbs7lajZkobUdqNzUo4PqRcK5Wyb5YfgyLs9HACrbJaypPivp9bozOwX=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHdKym19Dbr997l3vnlgqCXRhtJ-l-KHbOm5FDAJEO90yT19dW_aKL_pyu4Vp3OyeaZjHTBuQnyTsZ4wzYu54qafKXsRUwmruiCcrlV0_P_wY013VZyq=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHf7ZzKqC8Ydu3daDIbnoO4VspZDI_rCs3F8zCsng-83P0_kPUSVYWVzjiAClMN6S1imHDcwAWjkG3Kbx_5fl7xbqQZSxCTBHpj3miMeoVFPaGYq7GjE=w1920-h1080"></object>
 </div>
+
 
 ---
 

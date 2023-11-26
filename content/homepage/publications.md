@@ -24,7 +24,7 @@ Yiming Li, Sihang Li, Xinhao Liu, Moonjun Gong, Kenan Li, Nuo Chen, Zijun Wang, 
 
 **Hypothalamic Theta Modulation Improves Memory**\
 S. Chen, L. He, S.J. Middleton, N. Lam, **Z. Li**, Y.Xie, J.Tang, T.Nguyen, V. Berbano, A. Masurkar, T.M. Wisniewski, Z.S. Chen, T. Mchugh\
-*Presentation at Society for Neuroscience, Session PSTR501.03, 2023*
+*Poster Presentation at Society for Neuroscience, Session PSTR501.03, 2023*
 
 ---
 
