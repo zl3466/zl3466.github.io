@@ -2,5 +2,5 @@
 title: ""
 weight: 99
 header_menu: true
-external_linkedin: https://www.linkedin.com/in/zhiheng-li-zl3466nyu
+external_linkedin: https://github.com/zjedi/hugo-scroll
 ---
