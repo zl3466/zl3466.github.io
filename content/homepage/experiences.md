@@ -77,9 +77,10 @@ header_menu: true
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/4vmoX6ASWLERXkPR6"
   data-title="life"
-  data-description="15 new items added to shared album"
+  data-description="16 new items added to shared album"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/pw/ADCreHcYb_nPF5C7Zflj6PV4JoxGiz4kapexlrGJP3Xr50e8OVi2DSOBNlmiatK-6gD2HIEy0nqIp7X2g8Ue6J7pocLpNRuTkD1FljiTJbvCNWa8KcUe8HWz=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHcEqsq1z01t3Kh3ksKFoAZG0RoUv-OfHevtfeD5u9LY5Wq9lxVEyjGgn0CcVrOVADZ7l_5p2HeITxIuGI0qXXGC254krtx-P6okY9wKjhpJf_IaGprr=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHcUxA-AFdBxmj4T2JoGiUtUTlVpe5BXjUvXCDP-zKlB6eq4YEnmfj-qScFvmheSLfihXs0-TWScwQBQGIclToPfVNGTVp7hUA9OVqTx2FumUaigmZoR=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHcGR7uLz2kffRKCYf3PikVN1B_yxd-xTjHH_C3Fhzagm6Av0oyyJYURB8jCsBEs8he_LVS5Apo9ohivcMkwDDViLq08DtDCFaZKo7gP6Aos_9e_8ybq=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHe74n5xX1llUj6wmNjww_S45dMjgSI-GoGDp61qqnIUqaIqNRPiNqRHRVRYItg_TibWWxoridkb0ZvfXTZnET8LpweNWybYoGfQ74A9vbsgtmfsqELN=w1920-h1080"></object>

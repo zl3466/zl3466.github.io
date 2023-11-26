@@ -15,19 +15,23 @@ CVPR under review
 
 **SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views**\
 Yiming Li, Sihang Li, Xinhao Liu, Moonjun Gong, Kenan Li, Nuo Chen, Zijun Wang, **Zhiheng Li**, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng\
+*arXiv preprint arXiv:2306.09001, 2023*\
 [`arXiv`](https://openreview.net/forum?id=8fJEOri51F) | 
-[`code`](https://github.com/ai4ce/SSCBench)
+[`PDF`](https://arxiv.org/pdf/2306.09001.pdf) | 
+[`CODE`](https://github.com/ai4ce/SSCBench)
 
 ---
 
 **Hypothalamic Theta Modulation Improves Memory**\
 S. Chen, L. He, S.J. Middleton, N. Lam, **Z. Li**, Y.Xie, J.Tang, T.Nguyen, V. Berbano, A. Masurkar, T.M. Wisniewski, Z.S. Chen, T. Mchugh\
-Society for Neuroscience 2023, Session PSTR501.03
+*Presentation at Society for Neuroscience, Session PSTR501.03, 2023*
 
 ---
 
 **Early Prediction of 30-day ICU Readmissions Using Natural Language Processing and Machine Learning**\
 **Zhiheng Li**, Xinyue Xing, Bingzhang Lu, Ying Zhao, Zhixiang Li\
-[`Science Publishing Group, DOI 10.11648/j.bsi.20190403.11`](https://www.sciencepublishinggroup.com/article/10.11648.j.bsi.20190403.11)
+*Science Publishing Group, 2019*\
+[`arXiv`](https://arxiv.org/abs/1910.02545) | 
+[`PDF`](https://arxiv.org/ftp/arxiv/papers/1910/1910.02545.pdf)
 
 ---
