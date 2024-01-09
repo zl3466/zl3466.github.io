@@ -16,7 +16,7 @@ CVPR under review
 **SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views**\
 Yiming Li, Sihang Li, Xinhao Liu, Moonjun Gong, Kenan Li, Nuo Chen, Zijun Wang, **Zhiheng Li**, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng\
 *arXiv preprint arXiv:2306.09001, 2023*\
-[`arXiv`](https://openreview.net/forum?id=8fJEOri51F) | 
+[`arXiv`](https://arxiv.org/abs/2306.09001) | 
 [`PDF`](https://arxiv.org/pdf/2306.09001.pdf) | 
 [`CODE`](https://github.com/ai4ce/SSCBench)
 
