@@ -9,7 +9,7 @@ header_menu: true
 
 **Multiagent Multitraversal Multimodal Self-Driving: The MARS Dataset**\
 Yiming Li, **Zhiheng Li**, Nuo Chen, Moonjun Gong, Zonglin Lyu, Zehong Wang, Peili Jiang, Chen Feng\
-CVPR under review
+CVPR 2024 Accepted
 
 ---
 
