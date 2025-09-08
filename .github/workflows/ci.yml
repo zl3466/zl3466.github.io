@@ -22,8 +22,8 @@ jobs:
           hugo-version: latest
           extended: true
 
-      - name: Build local ./
-        run: hugo --minify --gc --destination ../public --source ./ --themesDir ../.. --baseURL https://zjedi.github.io/hugo-scroll/
+      - name: Build local ./exampleSite
+        run: hugo --minify --gc --destination ../public --source ./exampleSite --themesDir ../.. --baseURL https://zjedi.github.io/hugo-scroll/
 
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'
