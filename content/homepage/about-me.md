@@ -9,12 +9,10 @@ header_menu: true
 
 
 ----
-I am currently a senior undergraduate student at NYU Tandon School of Engineering, majoring in Electrical and Computer Engineering and minoring in Computer Science. 
+I am currently a MS ECE student at Carnegie Mellon University. Previously I attained my B.S. in ECE with minor in CS from NYU Tandon School of Engineering, working with Dr. Chen Feng at [AI4CE Lab](https://ai4ce.github.io/) and Dr. Shuo Chen at [Chen Lab](https://shuolab.github.io/). 
 
-At NYU, my research experiences have been predominantly focused on autonomous vehicle algorithms and datasets ([AI4CE Lab](https://ai4ce.github.io/), Department of Civil and Urban Engineering) and animal behavioral data acquisition and analysis (Wisniewski and Masurkar Labs, NYU Langone Health Department of Neurology). My future research and career aspirations thus lie in the intersection of computer vision, machine learning, and biomedical engineering. 
+My research experiences span developing vision models, datasets, and VLM/VLA for autonomous vehicles and general robotics, as well as animal behavioral data acquisition and analysis for neuroscience. My future research and career aspirations thus lie in the intersection of computer vision, machine learning, and biomedical engineering. 
 
 [//]: # (thus becoming familiar the acquisition and analytics of various data types.)
-
-[//]: # (Inspired by my latest internship at the algorithm department of LinkedCare Shanghai, I feel exited about exploiting the potential of artificial intelligence in assisting )
 
 

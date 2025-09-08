@@ -10,28 +10,6 @@ header_menu: true
 
 ---
 
-##### Algorithm Intern @ Shanghai LinkedCare Information Technology
-<br />
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/PPyz7KJwXHvDbWtC9"
-  data-title="linkedcare_new"
-  data-description="10 new items added to shared album"
-  data-delay="3">
-  <object data="https://lh3.googleusercontent.com/pw/ADCreHfHfnUASpGsGNBJb-gRf2nvAD2s1gGZmSHUXS-Mc0aNAVOYxRMaa97aZowxxXb8Y-pZJ4BNo_pLye3grnp9EFYNXSO6rTPDh9dnAo2oJDEwevDeQoom=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ADCreHdYa9a6rj02ojnXJixJvws8xlZBnfu5eU3V2hIMTlH0LIwRXJ0HALei_mY5yjCIjwJsP26DewMUDb3YD4fltZQkgc4MSYSsq-6GmM45alysSxHJtt5M=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ADCreHeaVeTvJ--9GCaNQ0LhRSOPS3JxJp__A-kX5zTs-0tJ9CALrAKa-Kxq24BG7OCUOFJigqKZ7oCuE5MBqOT1-F3go_39c0yo_Orag8U0oTuMarcxbkis=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ADCreHeUBR8-uH_nUFj6k8AAVELF_JjVMmpn_92EcDpfTzO-cA6Z028GEhnvHKLnmbTd6BRA6FLHv_esZGGJYIQCT-1ZnPcImXSyWpxDl_gjkZlk8uzYHacI=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ADCreHfTIHlXNIuF50mA8Kl0at2qeXhY31GkkGmx_RknKRaTnHSp7ClXcziLx3NfHMuSzVT3VftvH95lvMp8gWRBmd5y-uBQ6PjAMAUVg0NI-cBMDgBiTyTG=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ADCreHeY5wll3_LWO0IkwbpPCekCgt2NiSyb05XDWsJxIvL2EJP6ycWSbQCYbrVP6-niT5XBlRITsSVL3YfVTjGlvCzvLAeQ4VmgeBHF8OtL4qLE4bnOFuHU=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ADCreHfVLYQ06M0XWuI8HVgmYSd1d7qNl6oWxGVbOkJiKmCLr0WEASgIlDjYnQ6ECE0hxxJJZcTozbTCOvlrsmiK9Y4TzSbk3T0N0lpHmxRPJAkt7edPzkD7=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ADCreHe07FkRCOfngRaMboeMhHvu1AQmrTt6Oan0Y9WCpTSCu8LhCmd9gSdCmuv2caLKbldtYypiTgNIey8ZmuTnqwjV3SnhGu4XZyPW84TFmoxZFpNxXHXh=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ADCreHcBDkAPC8ZRDcXYuE-lGLmtxNYhcSb1abc6TA3CzjJ7ss7wSqi-xoKGQNsy5Ld3xE4brcNo9lYurPBNckL-Z2HkckMD3JmPnL-Xrsy1dafc0ytDEyJz=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/ADCreHdEk3SQWduZp1n4F3hQ-8_5b1RAW2ks3vH1ezQ1LYfG6XHZR365Daa_wZf6585eFhxLHSzVXWmB7Q3eTKo_ge6Lx9_xsEqfp-TSd1WXbjhlHUPiFv84=w1920-h1080"></object>
-</div>
-
----
-
 ##### Research Assistant @ AI4CE Lab
 <br />
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
@@ -72,6 +50,28 @@ header_menu: true
   <object data="https://lh3.googleusercontent.com/pw/ADCreHdKym19Dbr997l3vnlgqCXRhtJ-l-KHbOm5FDAJEO90yT19dW_aKL_pyu4Vp3OyeaZjHTBuQnyTsZ4wzYu54qafKXsRUwmruiCcrlV0_P_wY013VZyq=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHf7ZzKqC8Ydu3daDIbnoO4VspZDI_rCs3F8zCsng-83P0_kPUSVYWVzjiAClMN6S1imHDcwAWjkG3Kbx_5fl7xbqQZSxCTBHpj3miMeoVFPaGYq7GjE=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHdWKAkd4Ksk03pT77tzzWb5kyPLh7nZJeJM5YLRKWMGNdIb8tlFYlyfHeUq_KVpRPvag0YSe5xZjSgqOhJ02e47QZWmRrmSCv6ekHb2MhzSVKjBkWBJ=w1920-h1080"></object>
+</div>
+
+---
+
+##### Algorithm Intern @ Shanghai LinkedCare Information Technology
+<br />
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/PPyz7KJwXHvDbWtC9"
+  data-title="linkedcare_new"
+  data-description="10 new items added to shared album"
+  data-delay="3">
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHfHfnUASpGsGNBJb-gRf2nvAD2s1gGZmSHUXS-Mc0aNAVOYxRMaa97aZowxxXb8Y-pZJ4BNo_pLye3grnp9EFYNXSO6rTPDh9dnAo2oJDEwevDeQoom=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHdYa9a6rj02ojnXJixJvws8xlZBnfu5eU3V2hIMTlH0LIwRXJ0HALei_mY5yjCIjwJsP26DewMUDb3YD4fltZQkgc4MSYSsq-6GmM45alysSxHJtt5M=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHeaVeTvJ--9GCaNQ0LhRSOPS3JxJp__A-kX5zTs-0tJ9CALrAKa-Kxq24BG7OCUOFJigqKZ7oCuE5MBqOT1-F3go_39c0yo_Orag8U0oTuMarcxbkis=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHeUBR8-uH_nUFj6k8AAVELF_JjVMmpn_92EcDpfTzO-cA6Z028GEhnvHKLnmbTd6BRA6FLHv_esZGGJYIQCT-1ZnPcImXSyWpxDl_gjkZlk8uzYHacI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHfTIHlXNIuF50mA8Kl0at2qeXhY31GkkGmx_RknKRaTnHSp7ClXcziLx3NfHMuSzVT3VftvH95lvMp8gWRBmd5y-uBQ6PjAMAUVg0NI-cBMDgBiTyTG=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHeY5wll3_LWO0IkwbpPCekCgt2NiSyb05XDWsJxIvL2EJP6ycWSbQCYbrVP6-niT5XBlRITsSVL3YfVTjGlvCzvLAeQ4VmgeBHF8OtL4qLE4bnOFuHU=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHfVLYQ06M0XWuI8HVgmYSd1d7qNl6oWxGVbOkJiKmCLr0WEASgIlDjYnQ6ECE0hxxJJZcTozbTCOvlrsmiK9Y4TzSbk3T0N0lpHmxRPJAkt7edPzkD7=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHe07FkRCOfngRaMboeMhHvu1AQmrTt6Oan0Y9WCpTSCu8LhCmd9gSdCmuv2caLKbldtYypiTgNIey8ZmuTnqwjV3SnhGu4XZyPW84TFmoxZFpNxXHXh=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHcBDkAPC8ZRDcXYuE-lGLmtxNYhcSb1abc6TA3CzjJ7ss7wSqi-xoKGQNsy5Ld3xE4brcNo9lYurPBNckL-Z2HkckMD3JmPnL-Xrsy1dafc0ytDEyJz=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHdEk3SQWduZp1n4F3hQ-8_5b1RAW2ks3vH1ezQ1LYfG6XHZR365Daa_wZf6585eFhxLHSzVXWmB7Q3eTKo_ge6Lx9_xsEqfp-TSd1WXbjhlHUPiFv84=w1920-h1080"></object>
 </div>
 
 

@@ -15,10 +15,9 @@ Yiming Li, **Zhiheng Li**, Nuo Chen, Moonjun Gong, Zonglin Lyu, Zehong Wang, Pei
 [`PROJECT SITE`](https://ai4ce.github.io/MARS/)
 
 ---
-
 **Acute Aβ12-28P administration targeting apoE/Aβ interaction rescues synaptic function and cognitive decline in advanced-stage Alzheimer’s disease**\
-Tyra Nguyen, Karen Ha, Yvonne Xu, Nikolas Lam, Ding Wang, **Zhiheng Li**, Pengfu Liu, Zedong Sun, Jasper Kamb, Chris Kim, Arjun V. Masurkar, Shuo Chen, Thomas Wisniewski\
-[*Society for Neuroscience 2024*](https://www.sfn.org/meetings/neuroscience-2024) Under Review
+Shuo Chen, Nikolas Lam, **Zhiheng Li**, Ding Wang, Pengfu Liu, Victoria Berbano, Yu Xie, Tyra Nguyen, Yvonne Xu, John Yang, Karen Ha, Leonardo Semana, Rachel Dias, Arjun V Masurkar, Thomas Wisniewski\
+[*Alzheimer's & Dementia 2025*](https://doi.org/10.1002/alz.093081)
 
 ---
 
