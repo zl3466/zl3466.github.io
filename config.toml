@@ -12,7 +12,7 @@ enableRobotsTXT = true
   unsafe = true
 
 ## The name of this wonderful theme ;-).
-#theme = "hugo-scroll"
+theme = "hugo-scroll"
 
 # The browser tab name
 title = "Zhiheng Li - MyPage"
