@@ -23,7 +23,7 @@ jobs:
           extended: true
 
       - name: Build local site
-        run: hugo --minify --gc --destination ./public --baseURL https://zl3466.github.io/me/
+        run: hugo --minify --gc --destination ./public --baseURL https://zl3466.github.io/
 
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'
