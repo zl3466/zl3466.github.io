@@ -1,0 +1,16 @@
+{{- /* divs rather than ul/li: the theme's index.js prepends an icon to every "ul li". */ -}}
+<div class="xp-list">
+  {{- range hugo.Data.experience }}
+  <div class="xp-item">
+    <div class="xp-head">
+      <span class="xp-role">{{ .role }}</span>
+      <span class="xp-dates">{{ .dates }}</span>
+    </div>
+    <div class="xp-org">
+      {{- if .org_url }}<a href="{{ .org_url }}">{{ .org }}</a>{{ else }}{{ .org }}{{ end -}}
+      {{- with .detail }}<span class="xp-detail"> · {{ . }}</span>{{ end -}}
+    </div>
+    <p class="xp-summary">{{ .summary }}</p>
+  </div>
+  {{- end }}
+</div>

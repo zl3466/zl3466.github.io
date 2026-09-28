@@ -31,6 +31,10 @@
 
 <!-- <link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'> -->
 
+<!-- Site-specific overrides, kept in assets/ so the URL is fingerprinted (no stale CSS after deploys). -->
+{{ $custom := resources.Get "css/custom.css" | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $custom.Permalink }}" integrity="{{ $custom.Data.Integrity }}" />
+
 <!-- Custom CSS: Color Codes
      You may checkout https://htmlcolorcodes.com/ to get those
      weird color codes (like "#22343A") ;-). -->

@@ -5,6 +5,7 @@
 {{ $content := where (where $sections "Params.external" "==" nil) "Params.detailed_page_homepage_content" "ne" false }}
 {{ $content := where (where $content "Params.external_git" "==" nil) "Params.detailed_page_homepage_content" "ne" false}}
 {{ $content := where (where $content "Params.external_linkedin" "==" nil) "Params.detailed_page_homepage_content" "ne" false}}
+{{ $content := where (where $content "Params.external_scholar" "==" nil) "Params.external_email" "==" nil }}
 
 
 <!-- Welcome screen that scrolls out of view -->
@@ -52,6 +53,10 @@
                     <a class='icon_btn site-menu' href='{{ .Params.external_git }}'><icon class="fa fa-github"></icon></a>
                 {{ else if isset .Params "external_linkedin" }}
                     <a class='icon_btn site-menu' href='{{ .Params.external_linkedin }}'><icon class="fa fa-linkedin-square"></icon></a>
+                {{ else if isset .Params "external_scholar" }}
+                    <a class='icon_btn site-menu' href='{{ .Params.external_scholar }}' aria-label="Google Scholar"><icon class="fa fa-graduation-cap"></icon></a>
+                {{ else if isset .Params "external_email" }}
+                    <a class='icon_btn site-menu' href='{{ .Params.external_email }}' aria-label="Email"><icon class="fa fa-envelope"></icon></a>
                 {{ end }}
             {{ end }}
             {{ with (index $content 0) }}
@@ -89,6 +94,10 @@
             {{ else if isset .Params "external_linkedin" }}
                 {{ $fnav_title := .Title }}{{ with .Params.navigation_menu_title }}{{ $fnav_title = . }}{{ end }}
                 <a class='fn-item' href='{{ .Params.external_linkedin }}'><icon class="fa fa-linkedin-square"></icon></a>
+            {{ else if isset .Params "external_scholar" }}
+                <a class='fn-item' href='{{ .Params.external_scholar }}' aria-label="Google Scholar"><icon class="fa fa-graduation-cap"></icon></a>
+            {{ else if isset .Params "external_email" }}
+                <a class='fn-item' href='{{ .Params.external_email }}' aria-label="Email"><icon class="fa fa-envelope"></icon></a>
             {{ end }}
         {{ end }}
     </div>

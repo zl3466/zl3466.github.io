@@ -9,8 +9,8 @@ header_use_video: true
 header_logo: "/images/robotics-icon.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Hello! I'm Zhiheng Li (Jason)"
-header_subheadline: "<b>B.S. in ECE, Minor in CS</b> @ <b>NYU</b>"
+header_headline: "Hi! I'm Zhiheng (Jason) Li"
+header_subheadline: "Applied Scientist Intern @ <b>Amazon FAR</b> · M.S. ECE @ <b>CMU</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

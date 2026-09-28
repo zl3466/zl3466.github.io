@@ -1,0 +1,372 @@
+/* Site overrides on top of hugo-scroll. The html font-size is 62.5%, so 1rem = 10px. */
+
+:root {
+  --accent: #2a9bc0;
+  --accent-soft: #abe1ed;
+  --accent-tint: #e8f6fa;
+  --coral: #e8715a;
+  --ink: #26323a;
+  --muted: #5d6b73;
+
+  /* Both alternating section styles are light; the theme's default is dark grey. */
+  --section-light-text-color: var(--ink);
+  --section-light-bg-color: #ffffff;
+  --section-dark-text-color: var(--ink);
+  --section-dark-bg-color: #f2f9fc;
+  --sticky-menu-text-color: var(--accent);
+}
+
+/* ===== Body text: sans for reading, Roboto Slab kept for headings ===== */
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.6;
+}
+
+.post {
+  max-width: 880px;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.post-content a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.post-content a:hover {
+  text-decoration: underline;
+}
+
+.post-header {
+  margin-bottom: 2.4rem;
+}
+
+.post-title {
+  font-family: "Roboto Slab", serif;
+  font-size: 3.2rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: var(--ink);
+  position: relative;
+  padding-bottom: 1rem;
+}
+
+.post-title::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 48px;
+  height: 4px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--accent), var(--coral));
+}
+
+/* ===== Landing screen: only the button colours change ===== */
+#site-head a.btn:hover {
+  background-color: var(--accent);
+  color: #fff;
+}
+
+#site-head a.icon_btn {
+  font-size: 32px;
+  padding: 5px 7px;
+}
+
+/* ===== About ===== */
+.about {
+  display: flex;
+  gap: 3.2rem;
+  align-items: flex-start;
+}
+
+.post-content img.about-avatar {
+  flex: 0 0 180px;
+  width: 180px;
+  margin: 0.4rem 0 0;
+}
+
+.about-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.about-text p {
+  margin-top: 0;
+}
+
+.edu {
+  margin: 1.6rem 0;
+  padding: 1rem 1.4rem;
+  background: var(--accent-tint);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 6px 6px 0;
+  font-size: 1.45rem;
+  line-height: 1.7;
+}
+
+.edu-year {
+  float: right;
+  color: var(--muted);
+  font-size: 1.35rem;
+  margin-left: 1rem;
+}
+
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.post-content .about-links a {
+  display: inline-block;
+  padding: 0.4rem 1.2rem;
+  border: 1px solid var(--accent-soft);
+  border-radius: 999px;
+  font-size: 1.4rem;
+  color: var(--ink);
+}
+
+.post-content .about-links a:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  text-decoration: none;
+}
+
+/* ===== Experience: compact timeline ===== */
+.xp-list {
+  position: relative;
+  padding-left: 2.2rem;
+  border-left: 2px solid var(--accent-soft);
+}
+
+.xp-item {
+  position: relative;
+  margin-bottom: 1.8rem;
+}
+
+.xp-item:last-child {
+  margin-bottom: 0;
+}
+
+.xp-item::before {
+  content: "";
+  position: absolute;
+  left: -2.2rem;
+  top: 0.55rem;
+  width: 12px;
+  height: 12px;
+  margin-left: -7px;
+  border-radius: 50%;
+  background: #fff;
+  border: 3px solid var(--accent);
+}
+
+.xp-item:first-child::before {
+  background: var(--coral);
+  border-color: var(--coral);
+}
+
+.xp-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.xp-role {
+  font-weight: 700;
+  font-size: 1.65rem;
+}
+
+.xp-dates {
+  flex-shrink: 0;
+  color: var(--muted);
+  font-size: 1.35rem;
+}
+
+.xp-org {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.xp-detail {
+  color: var(--muted);
+}
+
+.post-content p.xp-summary {
+  margin: 0.2rem 0 0;
+  font-size: 1.45rem;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+/* ===== Publications ===== */
+.post-content h3.pub-group {
+  font-family: "Roboto Slab", serif;
+  font-size: 1.8rem;
+  color: var(--accent);
+  margin: 3rem 0 1.4rem;
+}
+
+.post-content h3.pub-group:first-child {
+  margin-top: 0;
+}
+
+.pub {
+  display: flex;
+  gap: 2rem;
+  padding: 1.2rem;
+  margin: 0 -1.2rem 0.6rem;
+  border-radius: 8px;
+  transition: background 0.2s ease;
+}
+
+.pub:hover {
+  background: rgba(171, 225, 237, 0.22);
+}
+
+.pub-thumb {
+  flex: 0 0 180px;
+  width: 180px;
+  height: 112px;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.pub:hover .pub-thumb {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.16);
+}
+
+.post-content .pub-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin: 0;
+}
+
+.pub-tile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+  text-align: center;
+  color: #fff;
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  background: linear-gradient(135deg, #2a9bc0, #6c63d6);
+}
+
+.pub-tile-journal { background: linear-gradient(135deg, #e8715a, #d9468f); }
+.pub-tile-poster { background: linear-gradient(135deg, #f0a04b, #e8715a); }
+.pub-tile-preprint { background: linear-gradient(135deg, #5d6b73, #2a9bc0); }
+
+.pub-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.pub-title {
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 1.35;
+  margin-bottom: 0.3rem;
+}
+
+.pub-authors {
+  font-size: 1.4rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+.pub-authors b {
+  color: var(--ink);
+}
+
+.pub-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 0.7rem;
+}
+
+.venue {
+  display: inline-block;
+  padding: 0.1rem 0.9rem;
+  border-radius: 4px;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fff;
+  background: var(--accent);
+}
+
+.venue-journal { background: var(--coral); }
+.venue-poster { background: #f0a04b; }
+.venue-preprint { background: #7b8a92; }
+
+.post-content a.pub-link {
+  display: inline-block;
+  padding: 0.05rem 0.9rem;
+  border: 1px solid var(--accent-soft);
+  border-radius: 999px;
+  font-size: 1.25rem;
+  color: var(--ink);
+}
+
+.post-content a.pub-link:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  text-decoration: none;
+}
+
+/* ===== Small screens ===== */
+@media only screen and (max-width: 600px) {
+  .post {
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+  }
+
+  .post-title {
+    font-size: 2.6rem;
+  }
+
+  .about {
+    flex-direction: column;
+    align-items: center;
+    gap: 1.6rem;
+  }
+
+  .post-content img.about-avatar {
+    flex-basis: auto;
+    width: 140px;
+  }
+
+  .xp-head {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .pub {
+    gap: 1.2rem;
+  }
+
+  .pub-thumb {
+    flex-basis: 110px;
+    width: 110px;
+    height: 69px;
+  }
+
+  .pub-tile {
+    font-size: 1.15rem;
+    padding: 0 0.5rem;
+  }
+}

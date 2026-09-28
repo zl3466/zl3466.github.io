@@ -1,0 +1,48 @@
+# Rendered by layouts/shortcodes/experience.html, newest first.
+- role: Applied Scientist Intern
+  org: Amazon Frontier AI & Robotics (FAR)
+  detail: Navigation team, supervised by Prof. Chen Feng
+  dates: Jun 2026 – Present
+  summary: Research on robot perception and navigation.
+
+- role: Graduate Research Assistant
+  org: AirLab, CMU Robotics Institute
+  org_url: https://theairlab.org/
+  dates: Mar 2025 – May 2026
+  summary: >-
+    Built the VLM query pipeline for visual-language-action experiments and LLM-based
+    instance-level object queries over scene graphs (SuperMap).
+
+- role: Computer Vision Perception Intern
+  org: May Mobility
+  org_url: https://maymobility.com/
+  detail: Perception team, Ann Arbor, MI
+  dates: Aug – Dec 2024
+  summary: >-
+    Built a progression/regression testing toolkit for the on-vehicle traffic-light detection
+    pipeline; AV image data collection, annotation and label QA.
+
+- role: Computer Vision Algorithm Intern
+  org: LinkedCare
+  detail: Algorithm Department, Shanghai
+  dates: Jun – Sep 2023
+  summary: >-
+    Automated retainer-mesh processing for 3D printing (30 s manual → 2 s per model); 2D/3D
+    segmentation models that made CBCT-to-panoramic conversion 90% faster.
+
+- role: Research Assistant & Webmaster
+  org: AI4CE Lab, NYU Tandon
+  org_url: https://ai4ce.github.io/
+  detail: Advised by Prof. Chen Feng
+  dates: Jul 2022 – Present
+  summary: >-
+    Built the MARS autonomous-driving dataset with May Mobility; multi-session LiDAR SLAM
+    (Chain-SLAM); VLM fine-tuning for pose estimation; 3D Gaussian splatting.
+
+- role: Engineering & Neuroscience Research Assistant
+  org: Wisniewski and Masurkar Labs, NYU Langone Health
+  detail: Department of Neurology
+  dates: Aug 2022 – Jan 2025
+  summary: >-
+    Closed-loop animal-behavior rig (C, MATLAB, Bonsai, DeepLabCut); Plexon neural data
+    acquisition and LFP / behavior analysis.

@@ -1,0 +1,77 @@
+# Rendered by layouts/shortcodes/publications.html, grouped in order.
+# "kind" picks the venue badge colour: conference | journal | preprint | poster.
+# Entries without "thumb" get a gradient tile showing "tile" (or the venue).
+- group: Robotics & Computer Vision
+  papers:
+    - title: "Chain-SLAM: Globally Consistent Backend for Multi-Session LiDAR SLAM via Chained Loop Closure"
+      authors: [Zhiheng Li, Xinhao Liu, Juexiao Zhang, Yongqing Liang, Chen Feng]
+      venue: IROS 2026
+      kind: conference
+      thumb: images/pubs/chainslam.jpg
+      links:
+        - { name: arXiv, url: "https://arxiv.org/abs/2609.12221" }
+        - { name: Code, url: "https://github.com/ai4ce/Chain-SLAM" }
+        - { name: Project, url: "https://ai4ce.github.io/Chain-SLAM/" }
+
+    - title: "MindBlock: Probing Spatial Assembly and Structure in Unified Multimodal Models"
+      authors: [Baiqiao Yin, Junhao Liu, Han Yin, Heyang Yu, Tingxuan Zhang, Zhiheng Li, Chengzu Li, Jihan Yang, Manling Li, Chen Feng, Yiming Li]
+      venue: ECCV 2026
+      kind: conference
+      tile: MindBlock
+      links:
+        - { name: Paper, url: "https://doi.org/10.1007/978-3-032-37432-5_8" }
+        - { name: OpenReview, url: "https://openreview.net/forum?id=HegePyh2q2" }
+
+    - title: "SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation"
+      authors: [Shibo Zhao, Guofei Chen, Honghao Zhu, Zhiheng Li, Changwei Yao, Nader Zantout, Seungchan Kim, Wenshan Wang, Ji Zhang, Sebastian Scherer]
+      venue: arXiv 2026
+      kind: preprint
+      thumb: images/pubs/supermap.jpg
+      links:
+        - { name: arXiv, url: "https://arxiv.org/abs/2608.22896" }
+        - { name: Project, url: "https://superodometry.com/supermap" }
+
+    - title: "Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset"
+      authors: [Yiming Li, Zhiheng Li, Nuo Chen, Moonjun Gong, Zonglin Lyu, Zehong Wang, Peili Jiang, Chen Feng]
+      venue: CVPR 2024
+      kind: conference
+      thumb: images/pubs/mars.jpg
+      links:
+        - { name: Paper, url: "https://openaccess.thecvf.com/content/CVPR2024/html/Li_Multiagent_Multitraversal_Multimodal_Self-Driving_Open_MARS_Dataset_CVPR_2024_paper.html" }
+        - { name: arXiv, url: "https://arxiv.org/abs/2406.09383" }
+        - { name: Code, url: "https://github.com/ai4ce/MARS" }
+        - { name: Project, url: "https://ai4ce.github.io/MARS/" }
+
+    - title: "SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving"
+      authors: [Yiming Li, Sihang Li, Xinhao Liu, Moonjun Gong, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng]
+      venue: IROS 2024
+      kind: conference
+      thumb: images/pubs/sscbench.jpg
+      links:
+        - { name: arXiv, url: "https://arxiv.org/abs/2306.09001" }
+        - { name: Code, url: "https://github.com/ai4ce/SSCBench" }
+
+- group: Neuroscience & Health
+  papers:
+    - title: "Acute Aβ12-28P administration targeting apoE/Aβ interaction rescues synaptic function and cognitive decline in advanced-stage Alzheimer's disease"
+      authors: [Shuo Chen, Nikolas Lam, Zhiheng Li, Ding Wang, Pengfu Liu, Victoria Berbano, Yu Xie, Tyra Nguyen, Yvonne Xu, John Yang, Karen Ha, Leonardo Semana, Rachel Dias, Arjun V. Masurkar, Thomas Wisniewski]
+      venue: Alzheimer's & Dementia 2025
+      kind: journal
+      tile: Alzheimer's & Dementia
+      links:
+        - { name: Paper, url: "https://doi.org/10.1002/alz.093081" }
+
+    - title: "Hypothalamic Theta Modulation Improves Memory"
+      authors: [S. Chen, L. He, S.J. Middleton, N. Lam, Z. Li, Y. Xie, J. Tang, T. Nguyen, V. Berbano, A. Masurkar, T.M. Wisniewski, Z.S. Chen, T. McHugh]
+      venue: SfN 2023 · Poster PSTR501.03
+      kind: poster
+      tile: Neuroscience 2023
+
+    - title: "Early Prediction of 30-day ICU Re-admissions Using Natural Language Processing and Machine Learning"
+      authors: [Zhiheng Li, Xinyue Xing, Bingzhang Lu, Zhixiang Li]
+      venue: arXiv 2019
+      kind: preprint
+      tile: ICU Re-admission
+      links:
+        - { name: arXiv, url: "https://arxiv.org/abs/1910.02545" }
+        - { name: PDF, url: "https://arxiv.org/pdf/1910.02545" }
