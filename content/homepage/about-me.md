@@ -18,7 +18,7 @@ I am currently an Applied Scientist Intern on the Navigation team at **Amazon Fr
 </div>
 
 <div class="about-links">
-<a href="mailto:zhiheng3@andrew.cmu.edu"><i class="fa fa-envelope"></i> Email</a>
+<a href="mailto:zl3466@nyu.edu"><i class="fa fa-envelope"></i> Email</a>
 <a href="https://scholar.google.com/citations?user=knUEm3cAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i> Scholar</a>
 <a href="https://github.com/zl3466"><i class="fa fa-github"></i> GitHub</a>
 <a href="https://www.linkedin.com/in/zhiheng-li-zl3466nyu"><i class="fa fa-linkedin-square"></i> LinkedIn</a>
