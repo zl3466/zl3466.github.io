@@ -24,8 +24,8 @@
 
     - title: "SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation"
       authors: [Shibo Zhao, Guofei Chen, Honghao Zhu, Zhiheng Li, Changwei Yao, Nader Zantout, Seungchan Kim, Wenshan Wang, Ji Zhang, Sebastian Scherer]
-      venue: arXiv 2026
-      kind: preprint
+      venue: RSS 2026
+      kind: conference
       thumb: images/pubs/supermap.jpg
       links:
         - { name: arXiv, url: "https://arxiv.org/abs/2608.22896" }
